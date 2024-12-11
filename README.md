@@ -1,4 +1,4 @@
 # Obsidian
-A Freeware use cleaner/remover made fully with ChatGPT 4o Model
+A Freeware use cleaner/remover
 
 Support Server: https://discord.gg/dqZYqwpHrb

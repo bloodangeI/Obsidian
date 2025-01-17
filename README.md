@@ -1,4 +1,4 @@
 # Obsidian
-A Freeware use cleaner/remover
+Discontinued freeware cleaner.
 
-Support Server: https://discord.gg/dqZYqwpHrb
+@nezur
